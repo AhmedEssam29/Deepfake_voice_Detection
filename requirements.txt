@@ -1,0 +1,13 @@
+pandas
+streamlit
+base64
+scikit-learn
+librosa
+matplotlib
+keras
+numpy
+bokeh
+tqdm
+seaborn
+scikit-learn
+tensorflow
