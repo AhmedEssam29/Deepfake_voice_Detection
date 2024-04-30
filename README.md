@@ -88,10 +88,6 @@ This project is used by [Wakeb Company](https://wakeb.tech/)
 
 ## Authors
 
-- [@Ahmed Nasser](https://github.com/AhmedNasser916)
 - [@Ahmed Essam](https://github.com/AhmedEssam29)
-- [@Esraa Mahmoudsaid](https://github.com/esraa-mahmoudsaid)
-- [@Alaa Rabie](https://github.com/alaa1124)
-- [@Omnia Elghazoly](https://github.com/Omniaelghazoly)
 
 
